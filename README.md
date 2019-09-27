@@ -5,6 +5,7 @@
 **`Ubuntu`**                                                                                   | **`macOS`**
 ---------------------------------------------------------------------------------------------- | -----------
 [![Kokoro Ubuntu](https://storage.googleapis.com/tink-kokoro-build-badges/tink-ubuntu.png)](#) | [![Kokoro macOS](https://storage.googleapis.com/tink-kokoro-build-badges/tink-macos.png)](#)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frajkrishnamurthy%2Ftink.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frajkrishnamurthy%2Ftink?ref=badge_shield)
 
 ## Index
 
@@ -156,3 +157,7 @@ Tink is maintained by (A-Z):
 -   Veronika Slívová
 -   Paula Vidas
 -   Jürg Wullschleger
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frajkrishnamurthy%2Ftink.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frajkrishnamurthy%2Ftink?ref=badge_large)
